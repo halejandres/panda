@@ -10,3 +10,8 @@
   "age": 25
 }
 ```
+	term
+: definition
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
