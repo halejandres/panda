@@ -16,4 +16,4 @@
 - [ ] Update the website
 - [ ] Contact the media
 
-### My Great Heading {#custom-id}
+### My Great Heading {#1}
